@@ -18,7 +18,6 @@
   <img src = "Images/img4.png" width="200"/>
   <img src = "Images/img5.png" width="200"/>
   <img src = "Images/img6.png" width="200"/>
-  <div class="column">
 </div>
 
 ---
